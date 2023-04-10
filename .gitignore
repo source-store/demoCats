@@ -1,0 +1,17 @@
+# Intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+.run/
+.teamcity/target
+out/
+# Mac
+.DS_Store
+# Gradle
+.gradle/
+artifacts/
+build/
+*.orig
+/classes/
+**/allure-results
