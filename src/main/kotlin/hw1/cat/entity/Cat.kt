@@ -1,4 +1,4 @@
-package hw1.cat
+package hw1.cat.entity
 
 import kotlin.random.Random
 import kotlin.random.nextInt
