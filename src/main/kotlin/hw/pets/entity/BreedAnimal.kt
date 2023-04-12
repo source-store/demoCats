@@ -1,11 +1,11 @@
-package hw1.cat.entity
+package hw.pets.entity
 
 
 /*
 * @author Alexandr.Yakubov
 **/
 
-enum class  Breed {
+enum class  BreedAnimal {
     Abyssinians,
     Australian_smoky,
     Asian_tiffany,

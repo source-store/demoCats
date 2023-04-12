@@ -1,5 +1,5 @@
-import hw1.cat.entity.Cat
-import hw1.cat.service.Service.Companion.searchCat
+import hw.pets.entity.Cat
+import hw.pets.service.Service.Companion.searchCat
 import kotlin.random.Random
 import kotlin.random.nextInt
 

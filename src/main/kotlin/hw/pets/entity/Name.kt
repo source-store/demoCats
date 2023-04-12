@@ -1,4 +1,4 @@
-package hw1.cat.entity
+package hw.pets.entity
 
 
 /*
